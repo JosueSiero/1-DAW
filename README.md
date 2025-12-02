@@ -1,5 +1,5 @@
-# ENDES_Apuntes
-Apuntes de Entornos de Desarrollo (asignatura 1º DAW)
+# 1-DAW
+Actividad de ENDES (asignatura 1º DAW)
 
 ## Mi primer README
 Este es el **inicio** (*o al menos podría serlo*) de una aventura informatíca donde se verá plasmado con el paso del tiempo mi avance y (*esperemos*) mejoría en esta rama que si bien he comenzado tarde, la he tomado con fuerzas.
