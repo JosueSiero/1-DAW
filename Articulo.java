@@ -27,4 +27,5 @@ public class Articulo {
     public boolean masBaratoQue (Articulo a){
         return this.precio<a.getPrecio();
     }
+    System.out.println("Archivo editado");
 }
